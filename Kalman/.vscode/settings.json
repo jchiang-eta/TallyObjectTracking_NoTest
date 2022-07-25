@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "tracking_unittest.h": "c",
+        "pipeline_config.h": "c"
+    }
+}
