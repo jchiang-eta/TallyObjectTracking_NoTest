@@ -357,6 +357,60 @@
     <ClCompile Include="src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
@@ -638,6 +692,81 @@
     <ClInclude Include="inc\postprocessing_unittest.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="inc\quant_unittest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\quant_utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\tracking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\tracking_unittest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\vec_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\bbox_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\cholesky.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\compiler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\counting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\counting_unittest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\hungarian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\hungarian_unittest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\kalman.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\kalman_cleanup_factory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\kalman_filters_factory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\kalman_measurements_factory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\matrix_unittest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\nms_byte.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\nms_float.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\pipeline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\pipeline_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\pipeline_unittest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\postprocessing_unittest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="inc\project_defines_standalone.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -654,9 +783,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="inc\vec_types.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="inc\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="inc\*.h">
